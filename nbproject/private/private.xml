@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/admin/servlet/AdminLogin.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/dao/AppointmentDAO.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/admin/servlet/UpdateDoctor.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/doctor/servlet/DoctorLogin.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/user_login.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/admin/index.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/admin/servlet/AddSpecialist.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/admin_login.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/admin/servlet/AddDoctor.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/user/servlet/changePassword.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/doctor_login.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/dao/DoctorDao.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/component/navbar.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/dao/SpecialistDao.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/index.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/user/servlet/UserLogin.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/admin/servlet/AdminLogout.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/view_appointment.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/doctor/servlet/DoctorLogout.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/entity/Doctor.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/user/servlet/UserLogout.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/admin/navbar.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/component/allcss.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/user/servlet/AppointmentServlet.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/admin/servlet/DeleteDoctor.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/entity/User.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/doctor/servlet/UpdateStatus.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/user_appointment.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/admin/patient.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/user/servlet/UserRegister.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/signup.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/doctor/comment.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/entity/Specalist.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/component/footer.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/doctor/servlet/EditProfile.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/admin/doctor.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/admin/view_doctor.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/admin/edit_doctor.jsp</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/doctor/servlet/DocotrPasswordChange.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/dao/UserDao.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/db/DBConnect.java</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/web/img/ap.jpg</file>
+            <file>file:/C:/Users/bobby/OneDrive/Documents/NetBeansProjects/hospi/hospital/src/java/com/entity/Appointment.java</file>
+        </group>
+    </open-files>
+</project-private>
